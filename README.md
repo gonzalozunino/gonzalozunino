@@ -3,7 +3,7 @@
 **I code for a living, believe it or not.**   
 
 I’m currently working with Reactjs and Vuejs creating awesome, breathtaking, magnificent, stunning, beyond belief apps.<br /> 
-Also, I recently fell in love with Swift.   
+Also, I'm in love with Swift.   
 Fun not so fun fact, I love music and playing BASS.   
 
 Looking to collaborate on PWAs as mobile apps projects.  
